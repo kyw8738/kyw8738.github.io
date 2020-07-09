@@ -44,7 +44,7 @@ Latest commit 1a6bc84 on 1 May
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -324,5 +324,3 @@ API
 Training
 Blog
 About
-
-remote_theme : mmistakes/minimal-mistakes

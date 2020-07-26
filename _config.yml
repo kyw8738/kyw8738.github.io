@@ -1,9 +1,9 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/lanyon"
-url: http://codinfox.github.io
+title: Young's blog
+tagline: 'Notes on my mind'
+description: 'I am going to show you whatever you want.'
+baseurl: ""
+url: http://kyw8738.github.io
 logo: '/public/logo.png'
 
 # Site configurations
@@ -24,29 +24,29 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  name: Young Kim
+  description: I want to be a great person in this field. But now, I am a employee in SAMSUNG ELECTRONICS co.
+  gravatar: 9df1654139ed5c38c4cadd6e011d3135 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
-    github:    https://github.com/codinfox
+    linkedin:  https://www.linkedin.com/in/youngwook-kim-b10949119/
+    github:    https://github.com/kyw8738
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    # twitter:   https://twitter.com/Li_Zhihao
+    # weibo:     http://weibo.com/41173780
+    email:     mailto:kyw8738@naver.com
 
 # Navigation (2nd level links supported)
 nav:
   Home:           
-    - '/'
-  Blog:           
     - '/blog/'
-    - { Categories: '/blog/categories/' }
-    - { Tags: '/blog/tags/' }
+  Blog:           
+    - '/'
+    # - { Categories: '/blog/categories/' }
+    # - { Tags: '/blog/tags/' }
   About:          
     - '/about/'
   Github Project: 
-    - 'http://codinfox.github.io/'
+    - 'http://kyw8738.github.io/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
@@ -59,5 +59,5 @@ hero:
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+disqus_short_name: 'Young' # leave blank if you don't want disqus
 
